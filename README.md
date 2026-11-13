@@ -142,7 +142,7 @@ nslookup example.com
 
 The following screenshot contains the execution outputs of all four tools: WhatWeb, cURL using the `-I` option, Wafw00f, and Nslookup.
 
-![WhatWeb, cURL, Wafw00f and Nslookup Results](screenshots/WhatwebCurlWafwoof.png)
+![WhatWeb, cURL, Wafw00f and Nslookup Results](screenshots/WhatwebCurlWafw00f.png)
 
 ### 6. DNSRecon
 
